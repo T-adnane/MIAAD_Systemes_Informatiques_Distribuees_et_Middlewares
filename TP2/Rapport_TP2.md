@@ -21,4 +21,7 @@
 ![ClientDotNet1](https://user-images.githubusercontent.com/115072337/228218765-b4cb1d38-696b-4994-9b82-c8d1a82584ef.PNG)
 ![ClientDotNet2](https://user-images.githubusercontent.com/115072337/228218784-f0cd107d-0a02-4971-bbf0-47781af0de94.PNG)
 # Créer un Client SOAP PHP
+![0000](https://user-images.githubusercontent.com/115072337/228292406-ea506642-c2d0-4451-8496-878233460f66.PNG)
+![0001](https://user-images.githubusercontent.com/115072337/228292427-637c9a89-9e80-444f-b36f-20e849d2d6a9.PNG)
+![0002](https://user-images.githubusercontent.com/115072337/228292449-54850bf3-6606-4da2-a5f3-a81330ec43a2.PNG)
 
